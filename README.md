@@ -13,4 +13,8 @@
 
 ### Outcome pics: 
 
+![output](p1-folders.png)
+![output2](outputP1.png)
+![output3](outputP1-2.png)
+
 ### [**Back to home page**](https://uo-cit-itsbread33.github.io/ItsBread33.github.io/)
